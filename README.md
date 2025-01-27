@@ -15,6 +15,7 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <h2>Operating Systems Used</h2>
 
 - Windows 10
+- Windows Server 2022
 
 <h2>Configuration Steps</h2>
 
