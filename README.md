@@ -38,6 +38,19 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 
 <h1>Step 3</h1>
 
-- 
+- Changed Private IP settings for dc-1
 
 
+<h1>Step 4</h1
+
+- Logged into our domain controller (dc-1) using Windows Remote Desktop
+
+
+
+<h1>Step 5</h1
+
+- Used run command to bring up Windows Firewall inside our domain controller
+
+
+
+<h1>Step 6</h1
