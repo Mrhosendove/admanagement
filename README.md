@@ -26,7 +26,9 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 
 <h1>Step 1</h1>
 
-- Created a Domain Controller running windows server and VM running window 10 Pro along with a VNET (Step-1)
+- Created a Domain Controller running windows server and VM running window 10 Pro along with a VNET
+- <img width="1374" height="569" alt="image" src="https://github.com/user-attachments/assets/175eeaba-2b93-4869-9839-c227a1581be9" />
+
 
 <h1>Part 2</h1>
   
