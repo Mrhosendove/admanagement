@@ -19,6 +19,11 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 
 <h2>Configuration Steps</h2>
 
+- Prepare AD Infrastructure
+- Deploy Active Directory
+- Create Users With PowerShell
+- Group Policy & Managing Accounts
+
 <h1>Part 1</h1>
 
 - Install Active Directory
