@@ -24,11 +24,9 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 - Create Users With PowerShell
 - Group Policy & Managing Accounts
 
-<h1>Part 1</h1>
+<h1>Step 1</h1>
 
-- Install Active Directory
-- Create A Domain Admin User
-- Join Client-1
+- Created a Domain Controller running windows server and VM running window 10 Pro along with a VNET (Step-1)
 
 <h1>Part 2</h1>
   
