@@ -66,4 +66,26 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <img width="1112" height="721" alt="image" src="https://github.com/user-attachments/assets/7ffa8b70-e5bc-458f-a3a0-7712f7671c29" />
 
 
-<h1>Step 7</h1>
+<h1>Step 8</h1>
+
+- Logged into client-1 VM using Remote Desktop opened Windows Powershell to successfully ping dc-1s private IP
+
+
+<h1>Step 9</h1>
+
+- Ran a command in Windows Powershell to observe that client-1s DNS server is pointing to our domain controller (dc-1)
+
+
+<h1>Step 10</h1>
+
+- Back in dc-1 we ran the same command and observed dc-1s DNS server is still the VNet server
+
+
+<h1>Step 11</h1>
+
+Within dc-1 using Server Manager we installed Active Directory Domain Services feature to our server
+
+
+<h1>Step 12</h1>
+
+Promoted dc-1 to a Domain Controller by adding a new forest within Server Manager (mydomain)
