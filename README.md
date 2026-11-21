@@ -39,17 +39,19 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <h1>Step 3</h1>
 
 - Changed Private IP settings for dc-1
+<img width="1289" height="650" alt="image" src="https://github.com/user-attachments/assets/c4c6394a-62bd-431d-918b-57b139eacd9a" />
 
 
 <h1>Step 4</h1
 
 - Logged into our domain controller (dc-1) using Windows Remote Desktop
-
+<img width="1289" height="650" alt="image" src="https://github.com/user-attachments/assets/abc11eca-0811-4b5f-86ef-84187aaeb866" />
 
 
 <h1>Step 5</h1
 
 - Used run command to bring up Windows Firewall inside our domain controller
+<img width="481" height="350" alt="image" src="https://github.com/user-attachments/assets/9e34ac5a-20d4-42d3-a716-204d55d43812" />
 
 
 
