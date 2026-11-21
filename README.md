@@ -54,5 +54,13 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <img width="481" height="350" alt="image" src="https://github.com/user-attachments/assets/9e34ac5a-20d4-42d3-a716-204d55d43812" />
 
 
-
 <h1>Step 6</h1
+            
+- Turned all firewalls off inside dc-1 (for the sake of the lab)
+<img width="1164" height="810" alt="image" src="https://github.com/user-attachments/assets/19c1dc6d-57df-4034-9435-d9808e6ef1fb" />
+
+
+<h1>Step 7</h1
+
+- Copied dc-1s private IP address and made client-1 point to that DNS server by adding private IP address to client-1s DNS servers inside its Network Interface Card look to dc-1 for info
+<img width="1112" height="721" alt="image" src="https://github.com/user-attachments/assets/7ffa8b70-e5bc-458f-a3a0-7712f7671c29" />
