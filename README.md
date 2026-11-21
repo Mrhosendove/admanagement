@@ -33,7 +33,7 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <h1>Step 2</h1>
 
 - Clicked on Virtual NIC that dc-1 uses to configure its IP settings (change it from dynamic to static)
-
+<img width="1148" height="544" alt="image" src="https://github.com/user-attachments/assets/96c948bb-019c-41d2-af3b-050f66331075" />
 
 
 <h1>Step 3</h1>
