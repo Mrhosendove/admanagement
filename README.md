@@ -83,9 +83,20 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 
 <h1>Step 11</h1>
 
-Within dc-1 using Server Manager we installed Active Directory Domain Services feature to our server
+- Within dc-1 using Server Manager we installed Active Directory Domain Services feature to our server
 
 
 <h1>Step 12</h1>
 
-Promoted dc-1 to a Domain Controller by adding a new forest within Server Manager (mydomain)
+- Promoted dc-1 to a Domain Controller by adding a new forest within Server Manager (mydomain)
+
+
+<h1>Step 13</h1>
+
+- Logged back in to dc-1 using domain name and username (not signing in locally)
+
+
+
+<h1>Step 14</h1>
+
+- Inside dc-1 Active Directory Users and Computers we added two new organizational Units (OU)
