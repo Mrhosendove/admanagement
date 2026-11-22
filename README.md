@@ -102,11 +102,22 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <img width="1698" height="1080" alt="image" src="https://github.com/user-attachments/assets/eae6ebc3-916c-4848-b92c-6de8416bd2ca" />
 
 
-
 <h1>Step 14</h1>
 
 - Inside dc-1 Active Directory Users and Computers we added two new organizational Units (OU)
 <img width="1317" height="778" alt="image" src="https://github.com/user-attachments/assets/0d36506f-2dce-45f7-8c95-d234f3de4012" />
+
+
+<h1>Step 15</h1>
+
+- Created a new admin user and named it Jane Doe
+<img width="765" height="612" alt="image" src="https://github.com/user-attachments/assets/23026c36-aa63-44e2-abde-3a1608ae7545" />
+
+
+
+<h1>Step 16</h1>
+
+- Made Jane a member of the Domain Admins Security Group to officially make her an admin then logged back in as jane_admin
 
 
 
