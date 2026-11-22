@@ -114,10 +114,40 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <img width="765" height="612" alt="image" src="https://github.com/user-attachments/assets/23026c36-aa63-44e2-abde-3a1608ae7545" />
 
 
-
 <h1>Step 16</h1>
 
 - Made Jane a member of the Domain Admins Security Group to officially make her an admin then logged back in as jane_admin
+
+
+
+<h1>Step 17</h1>
+
+- Added client-1 to the domain server in system settings using jane_admins account we created
+
+
+
+<h1>Step 18</h1>
+
+- Went back into dc-1 in AD users and computers to observe that client-1 now shows up in the Domain Controller
+
+
+
+<h1>Step 19</h1>
+
+- Back in dc-1 as jane admin we copied a script into powershell ISE to add 10000 users to our Active Directory
+
+
+
+<h1>Step 20</h1>
+
+- Picked a random user the script created in ADUC and logged onto client-1 with that users name and set password (with mydomain.com as context)
+
+
+
+<h1>Step 21</h1>
+
+- Using Group Policy Management we configured the account lockout settings for users
+
 
 
 
