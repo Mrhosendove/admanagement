@@ -93,14 +93,25 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <h1>Step 12</h1>
 
 - Promoted dc-1 to a Domain Controller by adding a new forest within Server Manager (mydomain)
+<img width="1651" height="900" alt="image" src="https://github.com/user-attachments/assets/809ae819-0986-4bb2-a4a7-5495ab9a921b" />
 
 
 <h1>Step 13</h1>
 
 - Logged back in to dc-1 using domain name and username (not signing in locally)
+<img width="1698" height="1080" alt="image" src="https://github.com/user-attachments/assets/eae6ebc3-916c-4848-b92c-6de8416bd2ca" />
 
 
 
 <h1>Step 14</h1>
 
 - Inside dc-1 Active Directory Users and Computers we added two new organizational Units (OU)
+<img width="1317" height="778" alt="image" src="https://github.com/user-attachments/assets/0d36506f-2dce-45f7-8c95-d234f3de4012" />
+
+
+
+
+
+
+
+
