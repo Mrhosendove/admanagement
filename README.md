@@ -69,21 +69,25 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <h1>Step 8</h1>
 
 - Logged into client-1 VM using Remote Desktop opened Windows Powershell to successfully ping dc-1s private IP
+<img width="748" height="501" alt="image" src="https://github.com/user-attachments/assets/62623987-2b49-4272-b994-d08f9459f054" />
 
 
 <h1>Step 9</h1>
 
 - Ran a command in Windows Powershell to observe that client-1s DNS server is pointing to our domain controller (dc-1)
+<img width="852" height="677" alt="image" src="https://github.com/user-attachments/assets/147663d7-c43c-4785-adf1-b09638c29681" />
 
 
 <h1>Step 10</h1>
 
 - Back in dc-1 we ran the same command and observed dc-1s DNS server is still the VNet server
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/12a3adde-5f0d-4be8-b711-53c0fbfaf2c3" />
 
 
 <h1>Step 11</h1>
 
 - Within dc-1 using Server Manager we installed Active Directory Domain Services feature to our server
+<img width="1618" height="752" alt="image" src="https://github.com/user-attachments/assets/0c5b9809-2dda-44ca-8a13-c711ebea37c3" />
 
 
 <h1>Step 12</h1>
