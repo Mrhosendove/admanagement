@@ -150,9 +150,27 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 
 
 
+<h1>Step 22</h1>
+
+- Used a command to force the grop policy update as jane admin in client-1
 
 
 
+<h1>Step 23</h1>
+
+- Using a fake user we created in ADUC we successfully locked out the account with too many failed logon attempts
+
+
+
+<h1>Step 24</h1>
+
+- In dc-1 ADUC we went into the locked out users account and proceeded to unlock it as jane admin
+
+
+
+<h1>Step 25</h1>
+
+- Successfully logged into user account after unlocking
 
 
 
