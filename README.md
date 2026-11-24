@@ -156,22 +156,45 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <img width="1116" height="695" alt="image" src="https://github.com/user-attachments/assets/93254e9d-1b69-4b00-b378-0e407768df33" />
 
 
-
 <h1>Step 23</h1>
 
 - Using a fake user we created in ADUC we successfully locked out the account with too many failed logon attempts
-
+<img width="873" height="710" alt="image" src="https://github.com/user-attachments/assets/724b65db-394c-4743-a33a-2f1eb6cbe8ed" />
 
 
 <h1>Step 24</h1>
 
 - In dc-1 ADUC we went into the locked out users account and proceeded to unlock it as jane admin
-
+<img width="930" height="660" alt="image" src="https://github.com/user-attachments/assets/2e95211d-cbef-4a1d-8907-73d6326ae6c9" />
 
 
 <h1>Step 25</h1>
 
 - Successfully logged into user account after unlocking
+<img width="804" height="418" alt="image" src="https://github.com/user-attachments/assets/a16cdea2-e884-40fe-b6fb-f1b5b686274f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
