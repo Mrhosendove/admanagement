@@ -117,42 +117,43 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <h1>Step 16</h1>
 
 - Made Jane a member of the Domain Admins Security Group to officially make her an admin then logged back in as jane_admin
-
+<img width="1168" height="795" alt="image" src="https://github.com/user-attachments/assets/2b36873e-f6c4-493e-bd83-11a1dae5e997" />
 
 
 <h1>Step 17</h1>
 
 - Added client-1 to the domain server in system settings using jane_admins account we created
-
+<img width="1545" height="839" alt="image" src="https://github.com/user-attachments/assets/6a778984-84de-4d2d-bb35-3ad5144add67" />
 
 
 <h1>Step 18</h1>
 
 - Went back into dc-1 in AD users and computers to observe that client-1 now shows up in the Domain Controller
-
+<img width="1047" height="739" alt="image" src="https://github.com/user-attachments/assets/dc17c76c-5d30-472c-9e8e-c39c443b75af" />
 
 
 <h1>Step 19</h1>
 
 - Back in dc-1 as jane admin we copied a script into powershell ISE to add 10000 users to our Active Directory
-
+<img width="1311" height="562" alt="image" src="https://github.com/user-attachments/assets/bb918cca-c190-40cd-b966-8258deeeba2a" />
 
 
 <h1>Step 20</h1>
 
 - Picked a random user the script created in ADUC and logged onto client-1 with that users name and set password (with mydomain.com as context)
-
+<img width="838" height="575" alt="image" src="https://github.com/user-attachments/assets/73860380-e2c7-4b72-8ad6-35de2bdae16c" />
 
 
 <h1>Step 21</h1>
 
 - Using Group Policy Management we configured the account lockout settings for users
-
+<img width="1181" height="708" alt="image" src="https://github.com/user-attachments/assets/b2d11b08-415f-490b-9921-2ae040f05dbc" />
 
 
 <h1>Step 22</h1>
 
 - Used a command to force the grop policy update as jane admin in client-1
+<img width="1116" height="695" alt="image" src="https://github.com/user-attachments/assets/93254e9d-1b69-4b00-b378-0e407768df33" />
 
 
 
