@@ -177,28 +177,30 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <h1>Step 26</h1>
 
 - Using Event Viewer inside dc-1 we observed the security authentication logs for a user (bet.rut) (see what people are doing on the network)
+<img width="941" height="825" alt="image" src="https://github.com/user-attachments/assets/13c03f00-971c-4e56-ad2e-9e7d80b0f90a" />
 
 
 <h1>Step 27</h1>
 
 - Dove more into DNS and observed how the computer will search for domains and where it checks first (map domain name to ip address we want inside DNS server
-
+<img width="1100" height="595" alt="image" src="https://github.com/user-attachments/assets/a9ba44e9-6432-4b6b-a31f-3fef2d7a300c" />
 
 
 <h1>Step 28</h1>
 
 - In dc-1 we added 3 folders (named them different lvls of access) to the C-drive to practice assigning permissions
-
+<img width="1103" height="655" alt="image" src="https://github.com/user-attachments/assets/71dfe441-a77a-460d-b0f1-27126d873c8b" />
 
 
 <h1>Step 29</h1>
 
 - Added domain users to the read access only folder (repeated with other folders except with no access folder gave domain admins read-write access)
-
+<img width="1102" height="643" alt="image" src="https://github.com/user-attachments/assets/21ddef29-3809-4a33-a3f5-ade5e6150368" />
 
 
 <h1>Step 30</h1>
 
 - Using normal users account (bet.rut) in client-1 VM we observed the new folders we created and which ones the user had access to (can also do with groups)
+<img width="1103" height="645" alt="image" src="https://github.com/user-attachments/assets/9ea5d344-32a8-4164-bbd1-ee1ccc06cc6b" />
 
 
