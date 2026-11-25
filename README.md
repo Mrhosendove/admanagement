@@ -191,10 +191,14 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 
 
 
+<h1>Step 29</h1>
+
+- Added domain users to the read access only folder (repeated with other folders except with no access folder gave domain admins read-write access)
 
 
 
+<h1>Step 30</h1>
 
-
+- Using normal users account (bet.rut) in client-1 VM we observed the new folders we created and which ones the user had access to (can also do with groups)
 
 
