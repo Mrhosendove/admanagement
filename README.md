@@ -174,20 +174,20 @@ In this tutorial, I'll demonstrate how a user can utilize Active Directory from 
 <img width="804" height="418" alt="image" src="https://github.com/user-attachments/assets/a16cdea2-e884-40fe-b6fb-f1b5b686274f" />
 
 
+<h1>Step 26</h1>
+
+- Using Event Viewer inside dc-1 we observed the security authentication logs for a user (bet.rut) (see what people are doing on the network)
+
+
+<h1>Step 27</h1>
+
+- Dove more into DNS and observed how the computer will search for domains and where it checks first (map domain name to ip address we want inside DNS server
 
 
 
+<h1>Step 28</h1>
 
-
-
-
-
-
-
-
-
-
-
+- In dc-1 we added 3 folders (named them different lvls of access) to the C-drive to practice assigning permissions
 
 
 
